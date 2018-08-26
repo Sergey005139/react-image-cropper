@@ -23,9 +23,9 @@ class Cropper extends Component {
       // image and clone image src
       src,
       // background image width
-      imgWidth: '100%',
+      imgWidth: '250px',
       // background image height
-      imgHeight: 'auto',
+      imgHeight: '250px',
       // cropper width, drag trigger changing
       frameWidth4Style: width,
       // cropper height, drag trigger changing
